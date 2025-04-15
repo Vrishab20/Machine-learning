@@ -1,7 +1,6 @@
 # Explainable AI (XAI) - Assignment 2  
 **Course:** CSI5155 - Fall 2024  
 **Author:** Vrishab Davey  
-**Student ID:** 300438343  
 
 ## Overview  
 This project explores the interpretability of machine learning models using SHAP (SHapley Additive exPlanations) on two datasets: Chocolate and Mushroom. Models analyzed include Random Forests and Decision Trees. The goal was to understand **why models make certain predictions**, **when they succeed or fail**, and how **to improve future model performance**.
